@@ -1,0 +1,2 @@
+-- Legacy SQL demo data was removed because it contained outdated hard-coded account hashes.
+-- For safe, repeatable demo rows, run `python -m seed` from the backend directory.
